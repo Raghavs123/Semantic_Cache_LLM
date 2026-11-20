@@ -1,0 +1,25 @@
+provider=fake  threshold=0.83  (cache starts empty)
+
+Q: Can I pay with a credit card?
+[LLM (miss)]    845.1 ms  sim=-  reason=empty_cache
+           answer : [offline stand-in LLM answer #1 to: Can I pay with a credit card?]
+
+Q: Is credit card payment accepted?
+[CACHE HIT ]     55.0 ms  sim=0.891  reason=semantic_hit
+           matched: Can I pay with a credit card?
+           answer : [offline stand-in LLM answer #1 to: Can I pay with a credit card?]
+
+Q: Credit card se payment ho sakta hai?
+[CACHE HIT ]    110.1 ms  sim=0.861  reason=semantic_hit
+           matched: Can I pay with a credit card?
+           answer : [offline stand-in LLM answer #1 to: Can I pay with a credit card?]
+
+{
+  "requests": 3,
+  "hits": 2,
+  "misses": 1,
+  "llm_tokens": 1459,
+  "hit_rate": 0.6667,
+  "avg_cache_latency_ms": 82.53,
+  "avg_llm_latency_ms": 845.14
+}

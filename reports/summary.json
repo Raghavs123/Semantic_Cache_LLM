@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-19",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "store": "memory",
+  "seed_variants": true,
+  "n_cache_entries": 90,
+  "n_faqs": 30,
+  "n_questions": 100,
+  "n_should_hit": 60,
+  "chosen_threshold_dev": 0.83,
+  "chosen_threshold_spec_grid": 0.85,
+  "full_set_at_chosen": {
+    "threshold": 0.83,
+    "n": 100,
+    "hits": 20,
+    "hit_rate": 0.2,
+    "correct_hits": 20,
+    "false_hits": 0,
+    "recall": 0.3333,
+    "precision": 1.0,
+    "llm_calls": 80,
+    "llm_calls_saved_pct": 20.0,
+    "est_avg_latency_ms": 667.85
+  },
+  "test_half_at_chosen": {
+    "threshold": 0.83,
+    "n": 50,
+    "hits": 8,
+    "hit_rate": 0.16,
+    "correct_hits": 8,
+    "false_hits": 0,
+    "recall": 0.2667,
+    "precision": 1.0,
+    "llm_calls": 42,
+    "llm_calls_saved_pct": 16.0,
+    "est_avg_latency_ms": 699.53
+  },
+  "exact_match_baseline": {
+    "hits": 0,
+    "hit_rate": 0.0
+  },
+  "lookup_latency_ms": {
+    "median": 27.57,
+    "p95": 31.68,
+    "max": 36.21
+  },
+  "llm_latency_ms_assumed_for_estimates": 800.0,
+  "guard_ablation": {
+    "no_guard": {
+      "threshold": 0.83,
+      "n": 100,
+      "hits": 24,
+      "hit_rate": 0.24,
+      "correct_hits": 19,
+      "false_hits": 5,
+      "recall": 0.3167,
+      "precision": 0.7917,
+      "llm_calls": 76,
+      "llm_calls_saved_pct": 24.0,
+      "est_avg_latency_ms": 635.85
+    },
+    "guard_skip": {
+      "threshold": 0.83,
+      "n": 100,
+      "hits": 19,
+      "hit_rate": 0.19,
+      "correct_hits": 19,
+      "false_hits": 0,
+      "recall": 0.3167,
+      "precision": 1.0,
+      "llm_calls": 81,
+      "llm_calls_saved_pct": 19.0,
+      "est_avg_latency_ms": 675.85
+    },
+    "guard_fallthrough": {
+      "threshold": 0.83,
+      "n": 100,
+      "hits": 20,
+      "hit_rate": 0.2,
+      "correct_hits": 20,
+      "false_hits": 0,
+      "recall": 0.3333,
+      "precision": 1.0,
+      "llm_calls": 80,
+      "llm_calls_saved_pct": 20.0,
+      "est_avg_latency_ms": 667.85
+    }
+  }
+}

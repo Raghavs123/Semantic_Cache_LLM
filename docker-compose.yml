@@ -1,0 +1,15 @@
+# Template - not run while making this repo (no Docker on the build machine).
+# docker compose up --build        -> API on http://localhost:8000/docs
+# Redis Stack is included for the production-style RedisVL option
+# (src/faqcache/stores/redis_template.py); the default app does not need it.
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    env_file: [.env]
+    volumes: ["./logs:/app/logs"]
+    depends_on: [redis]
+
+  redis:
+    image: redis/redis-stack-server:latest
+    ports: ["6379:6379"]

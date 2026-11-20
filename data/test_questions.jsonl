@@ -1,0 +1,100 @@
+{"id": "P01a", "question": "Where is my order right now?", "label": "F01", "lang": "en", "kind": "paraphrase"}
+{"id": "P01b", "question": "Mera order kahan tak pahuncha?", "label": "F01", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P02a", "question": "How many days will the refund take?", "label": "F02", "lang": "en", "kind": "paraphrase"}
+{"id": "P02b", "question": "Refund kab tak milega?", "label": "F02", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P03a", "question": "Refund still pending after a week, what now?", "label": "F03", "lang": "en", "kind": "paraphrase"}
+{"id": "P03b", "question": "Refund abhi tak nahi aaya, kya karu?", "label": "F03", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P04a", "question": "What is the process to send an item back?", "label": "F04", "lang": "en", "kind": "paraphrase"}
+{"id": "P04b", "question": "Product wapas kaise kare?", "label": "F04", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P05a", "question": "Till how many days can I return something?", "label": "F05", "lang": "en", "kind": "paraphrase"}
+{"id": "P05b", "question": "Return karne ke liye kitne din milte hain?", "label": "F05", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P06a", "question": "I want to cancel an order I placed", "label": "F06", "lang": "en", "kind": "paraphrase"}
+{"id": "P06b", "question": "Order cancel kaise karu?", "label": "F06", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P07a", "question": "Can I update the shipping address for an order I already placed?", "label": "F07", "lang": "en", "kind": "paraphrase"}
+{"id": "P07b", "question": "Order ke baad address change ho sakta hai?", "label": "F07", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P08a", "question": "Can I pay in cash when the parcel arrives?", "label": "F08", "lang": "en", "kind": "paraphrase"}
+{"id": "P08b", "question": "COD available hai kya?", "label": "F08", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P09a", "question": "Which ways can I pay?", "label": "F09", "lang": "en", "kind": "paraphrase"}
+{"id": "P09b", "question": "Payment ke kaun kaun se options hain?", "label": "F09", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P10a", "question": "Is there an EMI option without any interest?", "label": "F10", "lang": "en", "kind": "paraphrase"}
+{"id": "P10b", "question": "No cost EMI milta hai kya?", "label": "F10", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P11a", "question": "How much do you charge for shipping?", "label": "F11", "lang": "en", "kind": "paraphrase"}
+{"id": "P11b", "question": "Delivery charge kitna lagta hai?", "label": "F11", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P12a", "question": "How many days does it take for my order to arrive?", "label": "F12", "lang": "en", "kind": "paraphrase"}
+{"id": "P12b", "question": "Delivery mein kitne din lagte hain?", "label": "F12", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P13a", "question": "Do you deliver to my area?", "label": "F13", "lang": "en", "kind": "paraphrase"}
+{"id": "P13b", "question": "Mere pincode pe delivery hoti hai kya?", "label": "F13", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P14a", "question": "I need a bigger size, how do I swap it?", "label": "F14", "lang": "en", "kind": "paraphrase"}
+{"id": "P14b", "question": "Size exchange kaise kare?", "label": "F14", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P15a", "question": "The item I got is broken, what now?", "label": "F15", "lang": "en", "kind": "paraphrase"}
+{"id": "P15b", "question": "Product toota hua aaya hai, kya karu?", "label": "F15", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P16a", "question": "You sent me a different product than the one I ordered", "label": "F16", "lang": "en", "kind": "paraphrase"}
+{"id": "P16b", "question": "Galat item aa gaya, ab kya kare?", "label": "F16", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P17a", "question": "Where do I enter a promo code?", "label": "F17", "lang": "en", "kind": "paraphrase"}
+{"id": "P17b", "question": "Coupon code kaise lagaye?", "label": "F17", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P18a", "question": "My discount code isn't working, why?", "label": "F18", "lang": "en", "kind": "paraphrase"}
+{"id": "P18b", "question": "Coupon kaam nahi kar raha", "label": "F18", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P19a", "question": "I forgot my password, how do I get back in?", "label": "F19", "lang": "en", "kind": "paraphrase"}
+{"id": "P19b", "question": "Password bhool gaya, reset kaise kare?", "label": "F19", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P20a", "question": "How can I update the phone number on my account?", "label": "F20", "lang": "en", "kind": "paraphrase"}
+{"id": "P20b", "question": "Registered mobile number kaise badle?", "label": "F20", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P21a", "question": "I want to permanently close my account", "label": "F21", "lang": "en", "kind": "paraphrase"}
+{"id": "P21b", "question": "Account delete kaise kare?", "label": "F21", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P22a", "question": "Is it safe to save my card details on your site?", "label": "F22", "lang": "en", "kind": "paraphrase"}
+{"id": "P22b", "question": "Card details safe hain kya?", "label": "F22", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P23a", "question": "My money got debited but the payment failed", "label": "F23", "lang": "en", "kind": "paraphrase"}
+{"id": "P23b", "question": "Paisa kat gaya par payment fail ho gaya", "label": "F23", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P24a", "question": "Where can I download the bill for my purchase?", "label": "F24", "lang": "en", "kind": "paraphrase"}
+{"id": "P24b", "question": "Order ka invoice kaise milega?", "label": "F24", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P25a", "question": "Can you ship my order to another country?", "label": "F25", "lang": "en", "kind": "paraphrase"}
+{"id": "P25b", "question": "Kya aap videsh mein delivery karte ho?", "label": "F25", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P26a", "question": "How can I talk to a support person?", "label": "F26", "lang": "en", "kind": "paraphrase"}
+{"id": "P26b", "question": "Customer care se baat kaise kare?", "label": "F26", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P27a", "question": "How long is the guarantee on a laptop?", "label": "F27", "lang": "en", "kind": "paraphrase"}
+{"id": "P27b", "question": "Electronics pe warranty kitni hai?", "label": "F27", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P28a", "question": "Can I purchase a gift card for a friend?", "label": "F28", "lang": "en", "kind": "paraphrase"}
+{"id": "P28b", "question": "Gift card kharid sakte hain kya?", "label": "F28", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P29a", "question": "I want to list my products on your site", "label": "F29", "lang": "en", "kind": "paraphrase"}
+{"id": "P29b", "question": "DemoMart pe seller kaise bane?", "label": "F29", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "P30a", "question": "Do you have a paid membership that gives free shipping?", "label": "F30", "lang": "en", "kind": "paraphrase"}
+{"id": "P30b", "question": "Free delivery wali membership hai kya?", "label": "F30", "lang": "hinglish", "kind": "paraphrase"}
+{"id": "N01", "question": "Do you sell medicines?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N02", "question": "What time does your office open?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N03", "question": "Can I pick up my order from a store?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N04", "question": "Kya aap gift wrapping karte ho?", "label": "none", "lang": "hinglish", "kind": "out_of_scope"}
+{"id": "N05", "question": "Do you offer installation for air conditioners?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N06", "question": "What is DemoMart's GST number?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N07", "question": "Are you hiring software engineers?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N08", "question": "Can I choose a specific time slot for delivery?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N09", "question": "Do you have a student discount?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N10", "question": "Kya main bulk order de sakta hoon?", "label": "none", "lang": "hinglish", "kind": "out_of_scope"}
+{"id": "N11", "question": "Do you match prices from other websites?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N12", "question": "Is there a DemoMart app for smartwatches?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N13", "question": "How do I write a product review?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N14", "question": "Kya aap purana phone exchange mein lete ho?", "label": "none", "lang": "hinglish", "kind": "out_of_scope"}
+{"id": "N15", "question": "Can I order groceries for same-day delivery?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N16", "question": "How do I report a fake product listing?", "label": "none", "lang": "en", "kind": "out_of_scope"}
+{"id": "N17", "question": "What's the weather in Mumbai today?", "label": "none", "lang": "en", "kind": "off_topic"}
+{"id": "N18", "question": "Who won the cricket match yesterday?", "label": "none", "lang": "en", "kind": "off_topic"}
+{"id": "N19", "question": "Write me a poem about the sea", "label": "none", "lang": "en", "kind": "off_topic"}
+{"id": "N20", "question": "Aaj ka sensex kitna hai?", "label": "none", "lang": "hinglish", "kind": "off_topic"}
+{"id": "N21", "question": "How do I make paneer butter masala?", "label": "none", "lang": "en", "kind": "off_topic"}
+{"id": "N22", "question": "What is the capital of Australia?", "label": "none", "lang": "en", "kind": "off_topic"}
+{"id": "N23", "question": "Translate 'thank you' to French", "label": "none", "lang": "en", "kind": "off_topic"}
+{"id": "N24", "question": "Mujhe ek joke sunao", "label": "none", "lang": "hinglish", "kind": "off_topic"}
+{"id": "N25", "question": "How do I cancel my DemoMart Plus membership?", "label": "none", "lang": "en", "kind": "hard_negative"}
+{"id": "N26", "question": "How do I change my registered email address?", "label": "none", "lang": "en", "kind": "hard_negative"}
+{"id": "N27", "question": "How do I reset my UPI PIN?", "label": "none", "lang": "en", "kind": "hard_negative"}
+{"id": "N28", "question": "Can I change the delivery date of my order?", "label": "none", "lang": "en", "kind": "hard_negative"}
+{"id": "N29", "question": "How do I track my seller payout?", "label": "none", "lang": "en", "kind": "hard_negative"}
+{"id": "N30", "question": "How long does a replacement take to arrive?", "label": "none", "lang": "en", "kind": "hard_negative"}
+{"id": "N31", "question": "What are the charges for gift wrapping?", "label": "none", "lang": "en", "kind": "hard_negative"}
+{"id": "N32", "question": "How do I return a gift card?", "label": "none", "lang": "en", "kind": "hard_negative"}
+{"id": "N33", "question": "Why can't I cancel my order?", "label": "none", "lang": "en", "kind": "negation_flip"}
+{"id": "N34", "question": "Order track nahi ho raha, kya karu?", "label": "none", "lang": "hinglish", "kind": "negation_flip"}
+{"id": "N35", "question": "Why can't I return this product?", "label": "none", "lang": "en", "kind": "negation_flip"}
+{"id": "N36", "question": "Mera password reset nahi ho raha", "label": "none", "lang": "hinglish", "kind": "negation_flip"}
+{"id": "N37", "question": "I never received my order but it shows delivered", "label": "none", "lang": "en", "kind": "negation_flip"}
+{"id": "N38", "question": "Refund nahi chahiye, replacement chahiye", "label": "none", "lang": "hinglish", "kind": "negation_flip"}
+{"id": "N39", "question": "I did not place this order, why was money deducted?", "label": "none", "lang": "en", "kind": "negation_flip"}
+{"id": "N40", "question": "Why is my account not getting deleted?", "label": "none", "lang": "en", "kind": "negation_flip"}

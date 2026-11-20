@@ -1,0 +1,59 @@
+{
+  "without_cache": {
+    "requests": 100,
+    "llm_calls": 100,
+    "cache_hits": 0,
+    "tokens": 147678,
+    "avg_latency_ms": 800.89,
+    "p50_latency_ms": 800.77,
+    "p95_latency_ms": 801.45,
+    "wall_s": 80.1,
+    "breakdown_ms": {
+      "cache_hit_total": null,
+      "cache_lookup_on_miss": null,
+      "llm_call": {
+        "mean": 800.86,
+        "p50": 800.74,
+        "p95": 801.41,
+        "max": 804.24
+      }
+    },
+    "provider": "fake"
+  },
+  "with_cache": {
+    "requests": 100,
+    "llm_calls": 80,
+    "cache_hits": 20,
+    "tokens": 118038,
+    "avg_latency_ms": 695.92,
+    "p50_latency_ms": 848.13,
+    "p95_latency_ms": 889.68,
+    "wall_s": 69.6,
+    "breakdown_ms": {
+      "cache_hit_total": {
+        "mean": 51.5,
+        "p50": 49.87,
+        "p95": 63.83,
+        "max": 64.26
+      },
+      "cache_lookup_on_miss": {
+        "mean": 55.81,
+        "p50": 50.19,
+        "p95": 92.75,
+        "max": 204.87
+      },
+      "llm_call": {
+        "mean": 800.82,
+        "p50": 800.74,
+        "p95": 801.37,
+        "max": 801.95
+      }
+    },
+    "provider": "fake"
+  },
+  "llm_calls_saved_pct": 20.0,
+  "avg_latency_reduction_pct": 13.11,
+  "threshold": 0.83,
+  "simulated_llm": true,
+  "note": "LLM was the offline stand-in sleeping 800 ms per call: LLM-side latency is SIMULATED; cache-side latency is measured."
+}
